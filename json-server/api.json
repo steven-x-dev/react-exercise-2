@@ -1,9 +1,10 @@
 {
-  "products": [{
-    "category": "iPhone",
-    "price": "￥5999",
-    "name": "iPhone11"
-  },
+  "products": [
+    {
+      "category": "iPhone",
+      "price": "￥5999",
+      "name": "iPhone11"
+    },
     {
       "category": "iPhone",
       "price": "￥5399",
